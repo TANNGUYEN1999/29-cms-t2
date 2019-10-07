@@ -2,6 +2,8 @@
  
 </footer>
 </div> <!-- closes <div class=container"> -->
-<?php remove_footer_admin () ?>
+    <div class="a">
+<h1>
+Owned by : Tan Nguyen </h1></div>
 </body>
 </html>
